@@ -1,4 +1,4 @@
-# Desktop Felix: Curiosity Meets Productivity 🐱
+# Curiosity Meets Productivity 🐱
 
 ---
 
