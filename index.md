@@ -52,14 +52,14 @@ Desktop Felix stands apart from traditional widgets, desktop toys, or distractin
 
 ## 5. User Experience Highlights
 
+### The Morning Greeting
+Start your workday on a positive note. When you first wake up your Mac, Felix is there to stretch, shake off sleep, and greet you as you open your first application.
+
 ### The Window Perch
 You are deep into writing an email or debugging code when Felix wanders over, circles twice on top of your active application window, and settles down for an afternoon nap, turning a solitary task into a shared moment.
 
 ### The Gentle Nudge
-When you’ve been working continuously for an hour, Felix may wander over to the edge of your screen and stretch lazily, offering a warm, visual reminder that it might be a good time to stretch your legs, too.
-
-### Cursor Curiosity
-While you move your mouse across a document, Felix might sit quietly on your Dock, his head tilting back and forth as his eyes track your cursor's movement across the screen.
+When you’ve been working continuously for about an hour, Felix may wander over to the edge of your screen and stretch lazily, offering a warm, visual reminder that it might be a good time to stretch your legs, too.
 
 ### The Quiet Companion
 During late-night study or development sessions, Felix finds a cozy corner of your desktop, curled up fast asleep—providing a reassuring, silent companion in the quiet hours of the night.
