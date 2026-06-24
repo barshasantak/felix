@@ -71,4 +71,14 @@ During late-night study or development sessions, Felix finds a cozy corner of yo
 ### Bring a little warmth to your workspace.
 Your desktop doesn’t have to feel like just another screen. Introduce a touch of curiosity, playfulness, and comfort to your daily routine. 
 
+---
+
+## 7. Help and Support
+
+### Report Issues
+You can report any issues here: [https://github.com/barshasantak/felix/issues](https://github.com/barshasantak/felix/issues)
+
+
 **Download Desktop Felix today and discover your new favorite way to work.**
+ 
+ 
