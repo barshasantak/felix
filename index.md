@@ -77,8 +77,9 @@ Your desktop doesn’t have to feel like just another screen. Introduce a touch 
 
 ### Report Issues
 You can report any issues here: [https://github.com/barshasantak/felix/issues](https://github.com/barshasantak/felix/issues)
-
-
+ 
+Coming Soon on App Store for MacOS 💻
+ 
 **Download Desktop Felix today and discover your new favorite way to work.**
  
  
