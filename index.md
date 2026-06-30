@@ -80,6 +80,6 @@ You can report any issues here: [https://github.com/barshasantak/felix/issues](h
  
 Coming Soon on App Store for MacOS 💻
  
-**Download Desktop Felix today and discover your new favorite way to work.**
+**You can then download Desktop Felix and discover your new favorite way to work.**
  
  
