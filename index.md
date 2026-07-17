@@ -38,6 +38,9 @@ Felix reacts dynamically to your workflow. If you are typing quickly, he might s
 ### Native macOS Integration
 Built specifically for macOS, Felix operates quietly in the background. It monitors resources with lightweight resource management and intuitive menu bar controls, he coexists with your professional software without impacting your system’s performance.
 
+### Helpful Menu
+![Felix Menu](https://github.com/barshasantak/felix/blob/main/felix_menu.jpg)
+
 ---
 
 ## 4. Why Desktop Felix is Different
