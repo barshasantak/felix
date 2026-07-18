@@ -85,5 +85,5 @@ Coming Soon on App Store for MacOS 💻
  
 **You can then download Desktop Felix and discover your new favorite way to work.**
  
-🐶 Like Dogs? You can also check out Desktop Rover - [https://barshasantak.github.io/rover/](https://barshasantak.github.io/rover/)
+🐶 Love dogs? Meet Desktop Rover, your new digital companion. [https://barshasantak.github.io/rover/](https://barshasantak.github.io/rover/)
  
