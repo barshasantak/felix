@@ -1,4 +1,4 @@
-# Your Curious Workspace Companion 🐱
+## Your Curious Workspace Companion 🐱
 
 ---
 
