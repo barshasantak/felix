@@ -1,4 +1,4 @@
-# Curiosity Meets Productivity 🐱
+# Your Curious Workspace Companion 🐱
 
 ---
 
