@@ -1,8 +1,10 @@
-## Your Curious Workspace Companion 🐱
+## Your Curious Desktop Companion 🐱
 
 ---
 
 ## 1. Hero Section
+### Every Mac deserves a companion. 🍎
+We spend countless hours with our Macs - working, creating, coding, studying, and building. So why shouldn't our desktops feel a little more alive?
 
 ### Curiosity Has a New Home. Right on Your Desktop.
 *Meet Felix—the intelligent, elegant virtual cat designed to bring a touch of playfulness, warmth, and quiet companionship to your macOS workspace.*
@@ -83,7 +85,7 @@ You can report any issues here: [https://github.com/barshasantak/felix/issues](h
  
 Coming Soon on App Store for MacOS 💻
  
-**You can then download Desktop Felix and discover your new favorite way to work.**
+**You can adopt Felix and discover your new favorite way to work.**
  
 🐶 Love dogs? Meet Desktop Rover, your new digital companion. [https://barshasantak.github.io/rover/](https://barshasantak.github.io/rover/)
  
