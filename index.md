@@ -76,7 +76,7 @@ During late-night study or development sessions, Felix finds a cozy corner of yo
 ### Bring a little warmth to your workspace.
 Your desktop doesn’t have to feel like just another screen. Introduce a touch of curiosity, playfulness, and comfort to your daily routine. 
 
-### 🐾 Adopt Felix on the Mac App Store and discover your new favorite way to work: &nbsp; [![App Store](https://raw.githubusercontent.com/barshasantak/felix/main/app_store_black.png)](https://www.apple.com/app-store/)
+### Adopt Felix and discover your new favorite way to work: &nbsp; [![App Store](https://raw.githubusercontent.com/barshasantak/felix/main/app_store_black.png)](https://www.apple.com/app-store/)
 
 ---
 
