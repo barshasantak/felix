@@ -87,5 +87,5 @@ You can report any issues here: [https://github.com/barshasantak/felix/issues](h
  
 ---
  
-🐶 Love dogs? Meet Desktop Rover, your new digital companion. [https://barshasantak.github.io/rover/](https://barshasantak.github.io/rover/)
+🐶 Love dogs? Meet Desktop [Rover](https://barshasantak.github.io/rover/), your new digital companion.
  
