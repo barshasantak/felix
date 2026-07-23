@@ -76,6 +76,8 @@ During late-night study or development sessions, Felix finds a cozy corner of yo
 ### Bring a little warmth to your workspace.
 Your desktop doesn’t have to feel like just another screen. Introduce a touch of curiosity, playfulness, and comfort to your daily routine. 
 
+### 🐾 Adopt Felix on the Mac App Store and discover your new favorite way to work: &nbsp; [![App Store](https://raw.githubusercontent.com/barshasantak/felix/main/app_store_black.png)](https://www.apple.com/app-store/)
+
 ---
 
 ## 7. Help and Support
@@ -83,9 +85,7 @@ Your desktop doesn’t have to feel like just another screen. Introduce a touch 
 ### Report Issues
 You can report any issues here: [https://github.com/barshasantak/felix/issues](https://github.com/barshasantak/felix/issues)
  
-Coming Soon on App Store for MacOS 💻
- 
-**You can adopt Felix and discover your new favorite way to work.**
+---
  
 🐶 Love dogs? Meet Desktop Rover, your new digital companion. [https://barshasantak.github.io/rover/](https://barshasantak.github.io/rover/)
  
