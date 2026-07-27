@@ -41,6 +41,36 @@ Felix reacts dynamically to your workflow. If you are typing quickly, he might s
 Built specifically for macOS, Felix operates quietly in the background. It monitors resources with lightweight resource management and intuitive menu bar controls, he coexists with your professional software without impacting your system’s performance.
 
 ### Helpful Menu
+Click the Cat Icon (🐱) in your macOS Menu Bar to open Felix's control station:
+
+* About Felix: Opens a clean, retro-styled window displaying versioning, copyright information, and a custom close button.
+* Reset Felix Position: Teleports Felix back to the center of your active screen (extremely useful for multi-monitor setups if Felix wanders off-screen).
+* Pause / Resume Animation: Freezes Felix's frame loop when you need absolute, distraction-free focus.
+* Stretch Breaks: A dedicated wellness subsystem nested cleanly as a menu option:
+      * Enable Stretch Breaks: Toggles active timer tracking with checkmark indicators (✓). This setting persists automatically across system restarts.
+      * Preview Break: Instantly triggers a snappy, 4-second preview of Felix's stretch routine.
+* Resource Heatwave: An intelligent ambient system health monitor nested as a menu option:
+    * Enable Resource Heatwave: Toggles active CPU, Memory, and Thermal monitoring.
+    * CPU Trigger Threshold: Customize the target CPU utilization threshold (70%, 80%, or 90%).
+    * Memory Trigger Threshold: Customize the target system memory consumption threshold (75%, 85%, or 95%).
+    * Polling Interval: Configures how frequently system metrics are polled (10 Seconds, 20 Seconds, or 30 Seconds—with a safe 20-second default).
+    * Preview Heatwave: Triggers an instant 8-second demonstration of Felix's overheated sprawl and subsequent recovery sequence.
+* Keep Awake: A helper utility that prevents macOS from going to sleep or activating the screensaver for a selected duration.
+* Behavior Action (Manual State Overrides): Force Felix into any of her signature behavioral cycles for exactly 10 seconds before she automatically resumes her natural routine:
+    * Idle: Sits upright, with a calm gaze and organic tail sways.
+    * Running: An elegant, high-velocity running cycle.
+    * Sniffing: Stalking/hunting low-snout floor tracking and shiver animations.
+    * Clawing: Rapid screen scratching with bright white spark particles that drift down and settle before dissolving.
+    * Scratching: Sits and rapidly scratches behind her pointy ear with a hind leg.
+    * Grooming: Sits down and bobs her head to lick a raised front paw.
+    * Stretching: Triggers a continuous, looping preview of Felix's classic feline back-arch stretch.
+    * Sleeping: Lies flat, closes her eyes, and floats sleeping "Zzz" bubbles.
+    * Walking: A slow, elegant feline stroll.
+    * Overheated: Forces Felix's flat-out belly-flop posture and tail-fanning motion.
+    * Recovering: Forces Felix's post-heat yawn and sat sigh of relief.
+* Quit Felix: Quit the app.
+  
+  
 ![Felix Menu](https://raw.githubusercontent.com/barshasantak/felix/main/felix_menu.jpg)
 
 ---
