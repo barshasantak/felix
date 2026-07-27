@@ -43,20 +43,20 @@ Built specifically for macOS, Felix operates quietly in the background. It monit
 ### Helpful Menu
 Click the Cat Icon (🐱) in your macOS Menu Bar to open Felix's control station:
 
-* About Felix: Opens a clean, retro-styled window displaying versioning, copyright information, and a custom close button.
-* Reset Felix Position: Teleports Felix back to the center of your active screen (extremely useful for multi-monitor setups if Felix wanders off-screen).
-* Pause / Resume Animation: Freezes Felix's frame loop when you need absolute, distraction-free focus.
-* Stretch Breaks: A dedicated wellness subsystem nested cleanly as a menu option:
+* __About Felix__: Opens a clean, retro-styled window displaying versioning, copyright information, and a custom close button.
+* __Reset Felix Position__: Teleports Felix back to the center of your active screen (extremely useful for multi-monitor setups if Felix wanders off-screen).
+* __Pause / Resume Animation__: Freezes/Resumes Felix's frame loop when you need absolute, distraction-free focus.
+* __Stretch Breaks__: A dedicated wellness subsystem nested cleanly as a menu option:
       * Enable Stretch Breaks: Toggles active timer tracking with checkmark indicators (✓). This setting persists automatically across system restarts.
       * Preview Break: Instantly triggers a snappy, 4-second preview of Felix's stretch routine.
-* Resource Heatwave: An intelligent ambient system health monitor nested as a menu option:
+* __Resource Heatwave__: An intelligent ambient system health monitor nested as a menu option:
     * Enable Resource Heatwave: Toggles active CPU, Memory, and Thermal monitoring.
     * CPU Trigger Threshold: Customize the target CPU utilization threshold (70%, 80%, or 90%).
     * Memory Trigger Threshold: Customize the target system memory consumption threshold (75%, 85%, or 95%).
     * Polling Interval: Configures how frequently system metrics are polled (10 Seconds, 20 Seconds, or 30 Seconds—with a safe 20-second default).
     * Preview Heatwave: Triggers an instant 8-second demonstration of Felix's overheated sprawl and subsequent recovery sequence.
-* Keep Awake: A helper utility that prevents macOS from going to sleep or activating the screensaver for a selected duration.
-* Behavior Action (Manual State Overrides): Force Felix into any of her signature behavioral cycles for exactly 10 seconds before she automatically resumes her natural routine:
+* __Keep Awake__: A helper utility that prevents macOS from going to sleep or activating the screensaver for a selected duration.
+* __Behavior Action__ (Manual State Overrides): Force Felix into any of her signature behavioral cycles for exactly 10 seconds before she automatically resumes her natural routine:
     * Idle: Sits upright, with a calm gaze and organic tail sways.
     * Running: An elegant, high-velocity running cycle.
     * Sniffing: Stalking/hunting low-snout floor tracking and shiver animations.
@@ -68,7 +68,7 @@ Click the Cat Icon (🐱) in your macOS Menu Bar to open Felix's control station
     * Walking: A slow, elegant feline stroll.
     * Overheated: Forces Felix's flat-out belly-flop posture and tail-fanning motion.
     * Recovering: Forces Felix's post-heat yawn and sat sigh of relief.
-* Quit Felix: Quit the app.
+* __Quit Felix__: Quit the app.
   
   
 ![Felix Menu](https://raw.githubusercontent.com/barshasantak/felix/main/felix_menu.jpg)
