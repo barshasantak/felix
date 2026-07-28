@@ -40,7 +40,7 @@ Felix reacts dynamically to your workflow. If you are typing quickly, he might s
 ### Native macOS Integration
 Built specifically for macOS, Felix operates quietly in the background. It monitors resources with lightweight resource management and intuitive menu bar controls, he coexists with your professional software without impacting your system’s performance.
 
-### Helpful Menu
+### The Mischief Menu
 Click the Cat Icon (🐱) in your macOS Menu Bar to open Felix's control station:
 
 * __About Felix__: Opens a clean, retro-styled window displaying versioning, copyright information, and a custom close button.
@@ -84,7 +84,7 @@ Desktop Felix stands apart from traditional widgets, desktop toys, or distractin
 * **Balanced Design:** Every animation and behavior is designed to support your productivity. Felix is quiet, moves at a gentle pace, and knows how to keep you company without interrupting your focus.
 * **Aesthetic Polish:** Built with modern macOS design principles in mind, Felix’s fluid animations and subtle shadow effects integrate into your desktop, matching the premium feel of your hardware.
 
-📺 Watch a 20 second preview on YouTube: [Desktop Felix](https://youtu.be/k6N7auXMOVs?si=kgFon2L4vJR-JrGb)
+📺 Watch a ~20 second preview on YouTube: [Desktop Felix](https://youtu.be/k6N7auXMOVs?si=kgFon2L4vJR-JrGb)
  
 <br>
 
@@ -117,8 +117,8 @@ Your desktop doesn’t have to feel like just another screen. Introduce a touch 
 
 ### Report Issues
 You can report any issues here: [https://github.com/barshasantak/felix/issues](https://github.com/barshasantak/felix/issues)
- 
+  
 <br>
- 
+  
 🐶 Love dogs? Meet Desktop [Rover](https://barshasantak.github.io/rover/), your new digital companion.
  
