@@ -1,6 +1,6 @@
 ## Your Curious Desktop Companion 🐱
 
----
+<br>
 
 ## 1. Hero Section
 ### Every Mac deserves a companion. 🍎
@@ -9,7 +9,7 @@ We spend countless hours with our Macs - working, creating, coding, studying, an
 ### Curiosity Has a New Home. Right on Your Desktop.
 *Meet Felix—the intelligent, elegant virtual cat designed to bring a touch of playfulness, warmth, and quiet companionship to your macOS workspace.*
 
----
+<br>
 
 ## 2. Product Story
 
@@ -21,7 +21,7 @@ Our screens are often places of intense focus, endless notifications, and struct
 
 By blending authentic feline behaviors with thoughtful productivity features, Desktop Felix turns your Mac from a purely functional tool into a shared, inviting space. He is there to accompany you through long coding sessions, writing marathons, or study hours—bringing a small, delightful reminder to breathe, pause, and smile.
 
----
+<br>
 
 ## 3. Key Features
 
@@ -70,10 +70,11 @@ Click the Cat Icon (🐱) in your macOS Menu Bar to open Felix's control station
     * Recovering: Forces Felix's post-heat yawn and sat sigh of relief.
 * __Quit Felix__: Quit the app.
   
-  
+<br>
+
 ![Felix Menu](https://raw.githubusercontent.com/barshasantak/felix/main/felix_menu.jpg)
 
----
+<br>
 
 ## 4. Why Desktop Felix is Different
 
@@ -85,7 +86,7 @@ Desktop Felix stands apart from traditional widgets, desktop toys, or distractin
 
 📺 Watch a 20 second preview on YouTube: [Desktop Felix](https://youtu.be/k6N7auXMOVs?si=kgFon2L4vJR-JrGb)
  
----
+<br>
 
 ## 5. User Experience Highlights
 
@@ -101,7 +102,7 @@ When you’ve been working continuously for about an hour, Felix may wander over
 ### The Quiet Companion
 During late-night study or development sessions, Felix finds a cozy corner of your desktop, curled up fast asleep—providing a reassuring, silent companion in the quiet hours of the night.
 
----
+<br>
 
 ## 6. Closing Call-to-Action
 
@@ -110,14 +111,14 @@ Your desktop doesn’t have to feel like just another screen. Introduce a touch 
 
 ### Adopt Felix and discover your new favorite way to work: &nbsp; [![App Store](https://raw.githubusercontent.com/barshasantak/felix/main/app_store_black.png)](https://apps.apple.com/us/app/desktop-felix/id6791848020?mt=12)
 
----
+<br>
 
 ## 7. Help and Support
 
 ### Report Issues
 You can report any issues here: [https://github.com/barshasantak/felix/issues](https://github.com/barshasantak/felix/issues)
  
----
+<br>
  
 🐶 Love dogs? Meet Desktop [Rover](https://barshasantak.github.io/rover/), your new digital companion.
  
