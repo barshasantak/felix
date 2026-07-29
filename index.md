@@ -121,4 +121,11 @@ You can report any issues here: [https://github.com/barshasantak/felix/issues](h
 <br>
   
 🐶 Love dogs? Meet Desktop [Rover](https://barshasantak.github.io/rover/), your new digital companion.
+
+<br>
  
+<hr>
+ 
+<small>*© 2026 Santak Das, Tara Design Studio. All rights reserved.*</small>
+
+<br>
