@@ -55,7 +55,7 @@ Because every Mac deserves a companion.
 
 Not every productivity tool needs another notification. Sometimes all it takes is a curious cat or a loyal dog quietly sharing your workspace, bringing a smile during long days and making every moment at your Mac just a little more enjoyable.
 
-### The Mischief Menu
+### 🐈 The Mischief Menu
 Click the Cat Icon (🐱) in your macOS Menu Bar to open Felix's control station:
 
 * __About Felix__: Opens a clean, retro-styled window displaying versioning, copyright information, and a custom close button.
@@ -99,7 +99,7 @@ Desktop Felix stands apart from traditional widgets, desktop toys, or distractin
 * **Balanced Design:** Every animation and behavior is designed to support your productivity. Felix is quiet, moves at a gentle pace, and knows how to keep you company without interrupting your focus.
 * **Aesthetic Polish:** Built with modern macOS design principles in mind, Felix’s fluid animations and subtle shadow effects integrate into your desktop, matching the premium feel of your hardware.
 
-📺 Watch a 22 second preview on YouTube: [Desktop Felix](https://youtu.be/k6N7auXMOVs?si=kgFon2L4vJR-JrGb)
+📺 Watch a 22-seconds preview on YouTube: [Desktop Felix](https://youtu.be/k6N7auXMOVs?si=kgFon2L4vJR-JrGb)
  
 <br>
 
