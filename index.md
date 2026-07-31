@@ -25,20 +25,35 @@ By blending authentic feline behaviors with thoughtful productivity features, De
 
 ## 3. Key Features
 
-### Autonomous Feline Navigation
-Felix explores your desktop layout naturally. He would sit on your terminal windows, or finding a quiet spot near your folders to groom himself.
+### 🩺 Healthy Work Habits
 
-### Mindful Work Breaks
-Felix serves as an unobtrusive productivity partner. Instead of harsh alarms, he can offer gentle reminders to step away from your screen. Whether he stretches out across your active window or curls up to sleep, he provides a soft, visual cue to help you pace your workday.
+Work smarter, not longer.
 
-### Interactive Moments of Calm
-Whenever you need a brief mental pause, Felix is ready. You can enjoy the satisfying visual of him purring as you interact with him using the menu.
+Rover and Felix gently help you build healthier work routines with customizable focus sessions and thoughtful reminders. Whether it's time to rest your eyes, stretch, hydrate, or simply step away for a moment, they encourage sustainable productivity without interrupting your flow.
 
-### Responsive Personality
-Felix reacts dynamically to your workflow. If you are typing quickly, he might sit and watch with curiosity. If your desktop falls quiet, he may decide it is the ideal time to curl up and drift off to sleep, keeping his rhythm aligned with yours.
+### 🖥 A Living Desktop
 
-### Native macOS Integration
-Built specifically for macOS, Felix operates quietly in the background. It monitors resources with lightweight resource management and intuitive menu bar controls, he coexists with your professional software without impacting your system’s performance.
+A desktop with personality.
+
+Beautifully crafted animations give your Mac a sense of personality. Rover and Felix move naturally around your desktop, creating a workspace that feels warm, dynamic, and delightfully alive without getting in your way.
+
+### ⚡ Smart System Awareness
+
+Quietly looking after your Mac.
+
+Keep an eye on your Mac's health with lightweight system monitoring and intuitive menu bar controls. Rover and Felix quietly monitor system activity while remaining remarkably efficient, so they integrate seamlessly into your workflow without slowing your Mac down.
+
+### ☕ Stay Awake When You Need It
+
+Sleep when you do—not when your Mac decides to.
+
+Downloading large files, running long builds, giving a presentation, or processing hours of video? With a single click, Rover and Felix can prevent your Mac from sleeping until the job is done.
+
+### 😊 Tiny Moments of Joy
+
+Because every Mac deserves a companion.
+
+Not every productivity tool needs another notification. Sometimes all it takes is a curious cat or a loyal dog quietly sharing your workspace, bringing a smile during long days and making every moment at your Mac just a little more enjoyable.
 
 ### The Mischief Menu
 Click the Cat Icon (🐱) in your macOS Menu Bar to open Felix's control station:
