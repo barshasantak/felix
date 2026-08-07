@@ -99,7 +99,7 @@ Desktop Felix stands apart from traditional widgets, desktop toys, or distractin
 * **Balanced Design:** Every animation and behavior is designed to support your productivity. Felix is quiet, moves at a gentle pace, and knows how to keep you company without interrupting your focus.
 * **Aesthetic Polish:** Built with modern macOS design principles in mind, Felix’s fluid animations and subtle shadow effects integrate into your desktop, matching the premium feel of your hardware.
 
-📺 Watch a 22-seconds preview on YouTube: [Desktop Felix](https://youtu.be/k6N7auXMOVs?si=kgFon2L4vJR-JrGb)
+📺 Watch a 22-seconds preview on YouTube: [Desktop Felix](https://youtu.be/k6N7auXMOVs?si=kgFon2L4vJR-JrGb){:target="_blank"}
  
 <br>
 
@@ -124,18 +124,18 @@ During late-night study or development sessions, Felix finds a cozy corner of yo
 ### Bring a little warmth to your workspace.
 Your desktop doesn’t have to feel like just another screen. Introduce a touch of curiosity, playfulness, and comfort to your daily routine. 
 
-### Adopt Felix and discover your new favorite way to work: &nbsp; [![App Store](https://raw.githubusercontent.com/barshasantak/felix/main/app_store_black.png)](https://apps.apple.com/us/app/desktop-felix/id6791848020?mt=12)
+### Adopt Felix and discover your new favorite way to work: &nbsp; [![App Store](https://raw.githubusercontent.com/barshasantak/felix/main/app_store_black.png)](https://apps.apple.com/us/app/desktop-felix/id6791848020?mt=12){:target="_blank"}
 
 <br>
 
 ## 7. Help and Support
 
 ### Report Issues
-You can report any issues here: [https://github.com/barshasantak/felix/issues](https://github.com/barshasantak/felix/issues)
+You can report any issues here: [https://github.com/barshasantak/felix/issues](https://github.com/barshasantak/felix/issues){:target="_blank"}
   
 <br>
   
-🐶 Love dogs? Meet Desktop [Rover](https://barshasantak.github.io/rover/), your new digital companion.
+🐶 Love dogs? Meet Desktop [Rover](https://barshasantak.github.io/rover/){:target="_blank"}, your new digital companion.
 
 <br>
  
