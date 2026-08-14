@@ -17,7 +17,7 @@ Anyone who has ever worked alongside a cat knows the quiet comfort of their comp
 
 Desktop Felix was created to bring that exact feeling to your digital environment. 
 
-Our screens are often places of intense focus, endless notifications, and structured tasks. Felix introduces a gentle, living element to this space. He is an independent, companionable presence that lives right on your desktop. He might choose to stroll across your active windows, curl up for a nap on top of your Dock, or watch your cursor glide across the screen. 
+Our screens are often places of intense focus, endless notifications, and structured tasks. Felix introduces a gentle, living element to this space. He is an independent, companionable presence that lives right on your desktop. He might choose to stroll across your active windows, curl up for a nap on top of your dock, or watch your cursor glide across the screen. 
 
 By blending authentic feline behaviors with thoughtful productivity features, Desktop Felix turns your Mac from a purely functional tool into a shared, inviting space. He is there to accompany you through long coding sessions, writing marathons, or study hours—bringing a small, delightful reminder to breathe, pause, and smile.
 
