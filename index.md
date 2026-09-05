@@ -131,7 +131,10 @@ Your desktop doesn’t have to feel like just another screen. Introduce a touch 
 ## 7. Help and Support
 
 ### Report Issues
-You can report any issues here: [https://github.com/barshasantak/felix/issues](https://github.com/barshasantak/felix/issues){:target="_blank"}
+You can report any issues here: [https://forms.gle/XDUkjJ2TJzEruakX9](https://forms.gle/XDUkjJ2TJzEruakX9){:target="_blank"}
+
+Please provide clear, detailed information and the correct repository for the issue so it can be properly triaged and addressed. 
+
   
 <br>
   
